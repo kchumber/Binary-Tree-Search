@@ -1,0 +1,24 @@
+G:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 9\Binary Search Tree\Binary Search Tree\bin\Debug\Binary Search Tree.exe.config
+G:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 9\Binary Search Tree\Binary Search Tree\bin\Debug\Binary Search Tree.exe
+G:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 9\Binary Search Tree\Binary Search Tree\bin\Debug\Binary Search Tree.pdb
+G:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 9\Binary Search Tree\Binary Search Tree\obj\Debug\Binary Search Tree.csprojResolveAssemblyReference.cache
+G:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 9\Binary Search Tree\Binary Search Tree\obj\Debug\Binary Search Tree.exe
+G:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 9\Binary Search Tree\Binary Search Tree\obj\Debug\Binary Search Tree.pdb
+G:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 10\Binary Search Tree\Binary Search Tree\bin\Debug\Binary Search Tree.exe.config
+G:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 10\Binary Search Tree\Binary Search Tree\obj\Debug\Binary Search Tree.exe
+G:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 10\Binary Search Tree\Binary Search Tree\obj\Debug\Binary Search Tree.pdb
+C:\Users\Kallum Chumber\Desktop\algorithms &data structres\9&10\Binary Search Tree\Binary Search Tree\bin\Debug\Binary Search Tree.exe.config
+C:\Users\Kallum Chumber\Desktop\algorithms &data structres\9&10\Binary Search Tree\Binary Search Tree\obj\Debug\Binary Search Tree.exe
+C:\Users\Kallum Chumber\Desktop\algorithms &data structres\9&10\Binary Search Tree\Binary Search Tree\obj\Debug\Binary Search Tree.pdb
+C:\Users\Kallum Chumber\Desktop\algorithms &data structres\9&10\Binary Search Tree\Binary Search Tree\bin\Debug\Binary Search Tree.exe
+C:\Users\Kallum Chumber\Desktop\algorithms &data structres\9&10\Binary Search Tree\Binary Search Tree\bin\Debug\Binary Search Tree.pdb
+C:\Users\Kallum Chumber\Desktop\algorithms &data structres\9&10\Binary Search Tree\Binary Search Tree\obj\Debug\Binary Search Tree.csprojResolveAssemblyReference.cache
+C:\Users\Kallum Chumber\Desktop\resits\algorithms &data structres\9&10\Binary Search Tree\Binary Search Tree\bin\Debug\Binary Search Tree.exe.config
+C:\Users\Kallum Chumber\Desktop\resits\algorithms &data structres\9&10\Binary Search Tree\Binary Search Tree\obj\Debug\Binary Search Tree.exe
+C:\Users\Kallum Chumber\Desktop\resits\algorithms &data structres\9&10\Binary Search Tree\Binary Search Tree\obj\Debug\Binary Search Tree.pdb
+G:\uni\second year\resits\algorithms &data structres\Algorithms & data structures\9&10\Binary Search Tree\Binary Search Tree\bin\Debug\Binary Search Tree.exe.config
+G:\uni\second year\resits\algorithms &data structres\Algorithms & data structures\9&10\Binary Search Tree\Binary Search Tree\obj\Debug\Binary Search Tree.exe
+G:\uni\second year\resits\algorithms &data structres\Algorithms & data structures\9&10\Binary Search Tree\Binary Search Tree\obj\Debug\Binary Search Tree.pdb
+G:\uni\second year\resits\algorithms &data structres\Algorithms & data structures\9&10\Binary Search Tree\Binary Search Tree\bin\Debug\Binary Search Tree.exe
+G:\uni\second year\resits\algorithms &data structres\Algorithms & data structures\9&10\Binary Search Tree\Binary Search Tree\bin\Debug\Binary Search Tree.pdb
+G:\uni\second year\resits\algorithms &data structres\Algorithms & data structures\9&10\Binary Search Tree\Binary Search Tree\obj\Debug\Binary Search Tree.csprojResolveAssemblyReference.cache
